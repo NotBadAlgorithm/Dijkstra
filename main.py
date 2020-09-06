@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 import sys
-sys.stdin = open('data/input2.txt')
+sys.stdin = open('input.txt')
 def input_data():
     """
     Получаем граф от пользователя
